@@ -10,12 +10,12 @@ Basic input board for **TuchAudio 303 integrated amplifier**, a.k.a. _The Bedroo
 
 ## Inputs
 
-- **Phono:** 3.6 mV / 110 kohm. (via `103 pre-amp`)
+- **Phono:** 3.6 mV / 110 kohm. (via `103 pre-amp`, otherwise same as line input)
 - **Line:** 180 mV / 900 kohm.
-- **Tape Loop:** with RCA (180 mV/47 k) and DIN (0.48 V/16.5 k) connectors.
+- **Tape Playback:** thru RCA (180 mV/47 k) and DIN (0.48 V/16.5 k) connectors.
 
 ## Outputs
 
-- Speaker: **~1.5 W RMS** over 8 ohm.
+- Line out: 180 mV (intended for a suitable poweramp, like **TuchAudio 202**).
 - Tape Rec (RCA): 180 mV
 - Tape Rec (DIN): 5.3 mV over 10 kohm
